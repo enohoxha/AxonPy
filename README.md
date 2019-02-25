@@ -8,8 +8,10 @@ Axonpy is a python app that through terminal commands can perform some deeplearn
   Because size of datasets and pretrained models are to large to upload on git, i have upload them on
   google drive so if you want to run axonpy in your pc first download models from:
   
-  [Pre Trained models](https://www.google.com)
-   
+  [Pre Trained models](https://drive.google.com/open?id=1qaFHtU_m_3XmQv3fOW-GEl-OIbSvNAc9)
+  
+  <img src="https://lh3.googleusercontent.com/pIWjo26PxE-X7il6OFAOeToDNEHWNFjdSxxq5aM6XlgXJXVgiiMofhMggQu_Foi59Eb5HHTsjkcjfg=w1853-h950" alt="drawing" width="400" height="200"/>  
+  
   After you have download the weights please put them in the same directory hierarchy as env and playgrounds 
   
   I used pre trained models only for facenet network and yolo v3.
