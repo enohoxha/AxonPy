@@ -3,6 +3,17 @@
 
 Axonpy is a python app that through terminal commands can perform some deeplearning tasks.
 
+* ### Getting started
+   
+  Because size of datasets and pretrained models are to large to upload on git, i have upload them on
+  google drive so if you want to run axonpy in your pc first download models from:
+  
+  [Pre Trained models](https://www.google.com)
+   
+  After you have download the weights please put them in the same directory hierarchy as env and playgrounds 
+  
+  I used pre trained models only for facenet network and yolo v3.
+  
 * ### Commands and format
 
   Each of arguments below are required and have a specific role, lets try yo explain them on detail.
@@ -72,9 +83,12 @@ Axonpy is a python app that through terminal commands can perform some deeplearn
     
 * ### Outputs from axonpy
 
-  Here we have some simple output from axonpy
+  Here we have some simple output from axonpy you can find all on output folder
   
-  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  <img src="https://raw.githubusercontent.com/enohoxha/Axonpy/master/outputs/tiny_yolo/car1.jpg" alt="drawing" width="300" height="300"/>
+  <img src="https://raw.githubusercontent.com/enohoxha/Axonpy/master/outputs/tiny_yolo/d1.jpg" alt="drawing" width="300" height="300"/>
+  <img src="https://raw.githubusercontent.com/enohoxha/Axonpy/master/outputs/cat_dog/DSC_0645.JPG" alt="drawing" width="300" height="300"/>
+
   
   
   
