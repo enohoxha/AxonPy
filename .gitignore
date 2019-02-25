@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+\.idea/
+
+trained_models/
+
+trained_models\.zip

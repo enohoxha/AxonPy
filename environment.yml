@@ -1,0 +1,25 @@
+name: axonpy
+channels:
+- defaults
+dependencies:
+- python=3.6.*
+- bz2file==0.98
+- cython==0.29.*
+- pip==18.1.*
+- numpy==1.15.*
+- jupyter==1.0.*
+- matplotlib==3.0.*
+- setuptools==40.6.*
+- scikit-learn==0.20.*
+- scipy==1.1.*
+- pandas==0.23.*
+- pillow==5.4.*
+- seaborn==0.9.*
+- h5py==2.8.*
+- pytest==3.9.*
+- twisted==18.9.*
+- pip:
+  - tensorflow==1.12.*
+  - keras==2.2.*
+  - opencv-python
+  - keras-utils
